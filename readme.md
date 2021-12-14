@@ -1,4 +1,5 @@
-Hi there🙋‍♀️ I'm interested in data analysis, smart manufacturing, 
+Hi there🙋‍♀️ 
+
 
 ![Seri-Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seri-Jung&show_icons=true&theme=radical)
 
