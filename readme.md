@@ -1,4 +1,4 @@
-![Seri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seri&show_icons=true&theme=radical)
+![Seri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seri-Jung&show_icons=true&theme=radical)
 
 ### 👩‍💻Skills
 
