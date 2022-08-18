@@ -5,8 +5,8 @@ Hi there! Welcome to my github🙋‍♀️
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeri-Jung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://github.com/Seri-Jung)
 
 ### 🚩KETI platform address
-- 장고 웹페이지: http://bigsoft.iptime.org:2112/
-- NEXTJS: http://bigsoft.iptime.org:2103
+- 웹페이지: http://bigsoft.iptime.org:2112/
+- 이미지 학습 진행: http://bigsoft.iptime.org:7800/tree/demo_ML
 
 
 ### 👩‍💻Skills
