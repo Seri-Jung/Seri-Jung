@@ -4,6 +4,11 @@ Hi there! Welcome to my github🙋‍♀️
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeri-Jung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://github.com/Seri-Jung)
 
+### 🚩KETI platform address
+장고 웹페이지: http://bigsoft.iptime.org:2112/
+NEXTJS: bigsoft.iptime.org:2103
+
+
 ### 👩‍💻Skills
 
 <img src="https://img.shields.io/badge/python-181717?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
