@@ -1,4 +1,8 @@
-Hi there! Welcome to my github🙋‍♀️
+Hi welcome to my github! I'm Seri🙋‍♀️
+
+### AI researcher/ Data Scientist
+
+Develop a range of skills to manage and analyze data to solve business problems
 
 ![Seri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seri-Jung&show_icons=true&theme=dracula)
 
