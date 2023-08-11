@@ -1,10 +1,9 @@
 Hi welcome to my github! I'm Seri🙋‍♀️
 
-### AI researcher/ Data Scientist
+### AI researcher/ Data Scientist / Data Analysis
 
 Develop a range of skills to manage and analyze data to solve business problems
 
-![Seri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seri-Jung&show_icons=true&theme=dracula)
 
 
 ### 👩‍💻Skills
