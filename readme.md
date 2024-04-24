@@ -1,6 +1,6 @@
 Hi welcome to my github! I'm Seri🙋‍♀️
 
-### AI researcher/ Data Scientist / Data Analysis
+### Data Scientist / Data Analysis
 
 Develop a range of skills to manage and analyze data to solve business problems
 
